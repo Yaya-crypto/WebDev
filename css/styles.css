@@ -1,7 +1,32 @@
 body {
     background-color: lightblue;
+
 }
 
 h1 {
     color:rgb(5, 5, 50);
+    text-align: center;
 }
+
+h2 {
+    text-align: center;
+}
+
+.TOC {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+    width: 100px;
+    height: 100px;
+}
+
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+  th, td {
+    background-color: #96D4D4;
+  }
