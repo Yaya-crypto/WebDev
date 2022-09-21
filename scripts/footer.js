@@ -40,7 +40,7 @@ footerTemplate.innerHTML = `
   </style>
   <footer>
     <ul>
-      <li><a href="index.html">Home</a></li>
+      <li><a href="/Users/yayahmed/WebDev/index.html">Home</a></li>
     </ul>
   </footer>
 `;
