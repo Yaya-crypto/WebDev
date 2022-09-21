@@ -88,3 +88,15 @@ h2 {
     font-size: x-large;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
+
+  .buttonCont {
+    text-align: center;
+    padding-top: 30px;
+}
+
+button {
+    color: rgb(5, 5, 1);
+    font-size: large;
+    background-color: yellow;
+}
+ 
